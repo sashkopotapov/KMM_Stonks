@@ -36,7 +36,7 @@ class StonksApi() {
     suspend fun fetchQuote(): YFQuoteResponse {
         val response: YFQuoteResponse = client.get("$baseUrlYF/v6/finance/quote?region=US&lang=en&symbols=AAPL,NFLX,MCD,OXY,AMD,AAL,NIO,RIG,BAC,CCL") {
             headers {
-                append("X-API-KEY", "AbwUcPesFN1kXG1KMQrIqaxzXGurNq0V5sP8jG5S")
+                append("X-API-KEY", "w75MwFHp9T4pwlxUQiZCHxwvphKynif3jE8clGca")
             }
         }
 
