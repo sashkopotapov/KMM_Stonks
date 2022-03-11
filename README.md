@@ -16,6 +16,12 @@ In this case app can consume our framework in many different ways, but lets just
 ./gradlew createXCFramework
 ```
 It will generate `swiftpackage` folder with XCFramework which you then connect in your MacOS app.
+
+###### API Keys
+You also need to obtain you API keys, they are free, no credit cards etc. 
+[Yahoo Finance API Key](https://www.yahoofinanceapi.com/dashboard)
+[Alpha Vantage API Key](https://www.alphavantage.co/support/#api-key)
+Then pass them into `StonksApi.kt`
 ## 👤 Author
 This framework is created by Sashko Potapov.
 
