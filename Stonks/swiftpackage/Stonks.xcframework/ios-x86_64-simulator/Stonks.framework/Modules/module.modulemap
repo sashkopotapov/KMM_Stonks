@@ -1,0 +1,6 @@
+framework module Stonks {
+    umbrella header "Stonks.h"
+
+    export *
+    module * { export * }
+}
