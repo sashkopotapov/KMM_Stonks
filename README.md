@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="500" height="300" src="Stonks.png">
+  <img width="500" height="500" src="Stonks.png"/>
 </p>
+
 **KMM_Stonks** is a simple project that includes **Stonks** KMM library which is consumed by *iOS/MacOS/Android* apps. App uses *Yahoo Finance API* and *Alpha Vantage API* to fetch data.
 <img src="Screenshots.png"/>
 ## Installation
