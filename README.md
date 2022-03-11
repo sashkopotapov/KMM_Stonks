@@ -2,7 +2,7 @@
   <img width="500" height="300" src="Stonks.png"/>
 </p>
 
-##KMM_Stonks
+## KMM_Stonks
 This is a simple project that includes **Stonks** KMM library which is consumed by *iOS/MacOS/Android* apps. App uses *Yahoo Finance API* and *Alpha Vantage API* to fetch data.
 <img src="Screenshots.png"/>
 ## Installation
